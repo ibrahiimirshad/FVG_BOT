@@ -1,3 +1,5 @@
 *.whl
 fvg_bot.log
 __pycache__/
+
+config.json
